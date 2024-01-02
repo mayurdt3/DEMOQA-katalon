@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prompt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9e51e1f-52e0-4de8-b626-5c8b52f4f704</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e04774a-8cc6-4a93-81ec-4695910a2773</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Mayur'</defaultValue>
+      <description></description>
+      <id>8e04774a-8cc6-4a93-81ec-4695910a2773</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
