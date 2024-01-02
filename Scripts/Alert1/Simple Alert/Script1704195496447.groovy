@@ -25,5 +25,3 @@ WebUI.click(findTestObject('Alert/Page_DEMOQA/alert_button_Click me'))
 
 WebUI.acceptAlert()
 
-WebUI.closeBrowser()
-
