@@ -17,13 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alert1/Navigate to alert'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementClickable(findTestObject('Alert/Page_DEMOQA/alert_button_Click me'))
-
-WebUI.click(findTestObject('Alert/Page_DEMOQA/alert_button_Click me'))
-
-WebUI.acceptAlert()
-
-WebUI.closeBrowser()
-
