@@ -17,5 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Checkbox/Navigaet to Element List'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://demoqa.com/')
+
+WebUI.scrollToPosition(0, 100)
+
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_DEMOQA/h5_Elements'))
+
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_DEMOQA/span_Check Box'))
+
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_DEMOQA/Toggle'))
 

@@ -17,5 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Checkbox/Navigaet to Element List'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://the-internet.herokuapp.com/upload')
+
+WebUI.verifyElementPresent(findTestObject('Dialogbox/browserBase/Page_The Internet/choose File'), 0)
+
+sleep(3000);
+
+WebUI.uploadFile(findTestObject('Dialogbox/browserBase/Page_The Internet/choose File'), 'C:\\Users\\Soft\\OneDrive\\Desktop\\Skribbl.txt')
+
+WebUI.click(findTestObject('Object Repository/Dialogbox/browserBase/Page_The Internet/Upload_Button'))
 
