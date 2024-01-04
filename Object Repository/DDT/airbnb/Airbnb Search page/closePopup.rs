@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>closePopup</name>
+   <tag></tag>
+   <elementGuidId>a14b494b-cf46-49ac-a4eb-87bccbfb46d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[text()='Start exploring'])[3]/parent::button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.i16s3wg9.atm_7l_1hrmg1k.dir.dir-ltr > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f6abdc2b-58be-47bb-bf2c-2854db3135b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>3ccaae2b-2d67-4043-a5ec-913870d0c71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>49095ed3-074d-4710-9987-cfa63c089a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>982e15bb-f9ff-4f19-8fe0-85dd4e6a3ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>c0db442c-a653-4ba0-be3d-818c33efe93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>608f442a-0da5-4447-8ef3-037e1eb76bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible remTheme dir native v1oc6b3k vgnbcm1 v1agkal2 vqw89vp vlugpmm g5l85gq&quot;]/body[@class=&quot;with-new-header touch&quot;]/div[11]/div[1]/section[1]/div[@class=&quot;_1nispw4&quot;]/div[@class=&quot;p1psejvv atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;p1psejvv atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;_yoc0mbj&quot;]/div[@class=&quot;c17aqsi2 atm_9s_glywfm ms7eixj atm_9s_1ulexfb__oggzyc dir dir-ltr&quot;]/div[@class=&quot;l1p0bxik atm_9s_glywfm__qky54b dir dir-ltr&quot;]/div[@class=&quot;_1swasop&quot;]/button[@class=&quot;l1ovpqvx atm_1y33qqm_1ggndnn_10saat9 atm_17zvjtw_zk357r_10saat9 atm_w3cb4q_il40rs_10saat9 c1b3fvnw atm_1s_glywfm atm_9s_1o8liyq atm_5j_1ssbidh atm_kd_idpfg4 atm_gi_16flvx1 atm_l8_1v6z61t atm_7l_1u9drld atm_9j_tlke0l atm_tl_1gw4zv3 atm_2d_1kuelp3 atm_3f_6q8byr atm_70_1n51njw atm_uc_1dtz4sb atm_kd_glywfm_1w3cfyq atm_uc_x37zl0_1w3cfyq atm_70_1snd6fg_1w3cfyq atm_3f_glywfm_e4a3ld atm_l8_idpfg4_e4a3ld atm_gi_idpfg4_e4a3ld atm_3f_glywfm_1r4qscq atm_kd_glywfm_6y7yyg atm_uc_glywfm_1w3cfyq_p88qr9 atm_kd_glywfm_18zk5v0 atm_uc_x37zl0_18zk5v0 atm_70_1snd6fg_18zk5v0 atm_3f_glywfm_6mgo84 atm_l8_idpfg4_6mgo84 atm_gi_idpfg4_6mgo84 atm_3f_glywfm_16p4kaz atm_kd_glywfm_17yx6rv atm_uc_glywfm_18zk5v0_p88qr9 atm_k4_1piyxwk_1o5j5ji atm_9j_13gfvf7_1o5j5ji atm_7l_jajhky_1o5j5ji atm_2d_1v67ije_csw3t1 atm_tr_ffmgpj_csw3t1 atm_2d_1v67ije_1nos8r_uv4tnr atm_uc_glywfm__p88qr9 dir dir-ltr&quot;]/span[@class=&quot;i16s3wg9 atm_7l_1hrmg1k dir dir-ltr&quot;]/svg[1]</value>
+      <webElementGuid>56db1d7f-da4d-4f21-9491-983e65444eae</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

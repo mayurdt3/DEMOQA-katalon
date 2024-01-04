@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2 days</name>
+   <tag></tag>
+   <elementGuidId>2d9162f5-2cb2-4b31-8219-b1450cde8087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='micro-flex-chips']/div[2]/label[3]/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c16a0dae-004c-45b5-a32a-b4158e2ca144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0729ebcc-d36c-47cd-a91e-ddf68a65309b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 days</value>
+      <webElementGuid>bb591416-d20f-4188-8fd9-e1022d0e7623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;micro-flex-chips&quot;)/div[@class=&quot;h1hdfvnt atm_p9_glywfm atm_9s_glywfm_14pyf7n ch6kkuc atm_l8_1v3znoq atm_l0_1wugsn5 atm_vv_1q9ccgz atm_9s_1txwivl atm_cx_19bvopo dir dir-ltr&quot;]/label[@class=&quot;c1to5xc0 atm_9j_tlke0l atm_r3_1h6ojuz atm_3f_97hwo atm_l8_idpfg4 atm_gi_idpfg4 atm_2d_1hbpp16 atm_4b_161hw1 atm_7l_18pqv07 atm_bx_1ltc5j7 atm_mk_h2mmj6 atm_uq_17liqq3 atm_ui_1bljbuh atm_uv_1kebd6b atm_kd_glywfm atm_lo_z1y8gd atm_le_z1y8gd atm_j6_1vi7ecw atm_5j_6skqky atm_c8_1l6y6xl atm_g3_i7n6xh atm_fr_4z8b6j atm_lk_dlk8xv atm_ll_dlk8xv atm_7l_1otlplk_1nos8r_uv4tnr atm_4b_1otlplk_1nos8r_uv4tnr atm_7l_1otlplk_csw3t1 atm_4b_1otlplk_csw3t1 atm_tr_ybgkrq_csw3t1 atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_x37zl0_1w3cfyq atm_70_1rtszzq_1w3cfyq atm_uc_glywfm_1w3cfyq_p88qr9 atm_uc_x37zl0_18zk5v0 atm_70_1rtszzq_18zk5v0 atm_uc_glywfm_18zk5v0_p88qr9 atm_uc_x37zl0_1g2osyr atm_70_1rtszzq_1g2osyr atm_uc_glywfm_1g2osyr_p88qr9 c1ndfn78 c3nigbr atm_9s_116y0ak atm_h_1h6ojuz dir dir-ltr&quot;]/span[@class=&quot;m1a5ne2a atm_9s_1ulexfb dir dir-ltr&quot;]/span[1]</value>
+      <webElementGuid>3e032477-a09f-43d4-b592-54a15db4f21b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='micro-flex-chips']/div[2]/label[3]/span[2]/span</value>
+      <webElementGuid>93f61f3a-1d4b-493f-8882-1b46344d3315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]/span[2]/span</value>
+      <webElementGuid>6f4884c6-6070-4b86-ba57-123410442e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2 days' or . = '2 days')]</value>
+      <webElementGuid>d4e0816c-8f42-497b-9866-e3996c77935a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

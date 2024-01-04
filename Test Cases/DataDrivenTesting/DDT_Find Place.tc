@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_Find Place</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ebe2abf-3f3b-4214-82e7-15526303a351</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dabd6bc3-6f83-4388-95af-5eeedad2803e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Atlanta'</defaultValue>
+      <description></description>
+      <id>dabd6bc3-6f83-4388-95af-5eeedad2803e</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+</TestCaseEntity>

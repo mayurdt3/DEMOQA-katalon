@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\Soft\OneDrive\Desktop\excel DDt.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-01-04T00:36:00.155+05:30</taken-date>
+   <column-names>
+      <column-name>city</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Paris",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "New York",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Tokyo",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Barcelona",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "London",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
