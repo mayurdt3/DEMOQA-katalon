@@ -25,6 +25,15 @@
          </iterationEntity>
          <testDataId>Data Files/AirBnB/New Test Data csv</testDataId>
       </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4b42e27f-9506-4097-977a-f39befe47dfc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AirBnB/demo</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>413fe4ba-9884-45ba-86cc-a699aad4ae04</testDataLinkId>

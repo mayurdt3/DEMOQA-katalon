@@ -17,8 +17,6 @@ import com.kms.katalon.core.webui.keyword.builtin.VerifyAlertNotPresentKeyword a
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.testng.Assert as Assert
-import org.testng.Assert as Keys
 
 WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint'), false)
 
@@ -44,5 +42,9 @@ println(result)
 
 println(cityL)
 
-Assert.assertTrue(result.contains(cityL))
+assert true
+
+assert (result.contains(cityL))
+
+
 

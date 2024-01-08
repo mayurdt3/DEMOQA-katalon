@@ -3,8 +3,6 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
-import org.testng.annotations.Test
-
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.checkpoint.CheckpointFactory as CheckpointFactory
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
@@ -61,7 +59,6 @@ def setupTestCase() {
 def tearDownTestCase() {
 	// Put your code here.
 }
-@before
 
 /**
  * References:

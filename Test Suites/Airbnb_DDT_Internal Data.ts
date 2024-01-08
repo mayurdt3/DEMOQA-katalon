@@ -18,18 +18,18 @@
       <testCaseId>Test Cases/DataDrivenTesting/DDT_Find Place</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>1453c049-5d21-4c94-af33-c5b96d31e8c7</id>
+         <id>10418bf4-f85f-49cf-bf79-765ad7b87033</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/AirBnB/New Test Data internal Data</testDataId>
+         <testDataId>Data Files/AirBnB/demo</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>1453c049-5d21-4c94-af33-c5b96d31e8c7</testDataLinkId>
+         <testDataLinkId></testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>city</value>
+         <value></value>
          <variableId>dabd6bc3-6f83-4388-95af-5eeedad2803e</variableId>
       </variableLink>
    </testCaseLink>

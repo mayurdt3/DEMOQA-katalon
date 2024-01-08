@@ -17,21 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://total-qa.com/checkbox-example/')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://demoqa.com/')
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_Checkbox Example - Total-QA/input_chk'))
 
-WebUI.scrollToElement(findTestObject('Alert/Page_DEMOQA/Alerts, Frame Windows'), 3)
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_Checkbox Example - Total-QA/input_chk'))
 
-WebUI.click(findTestObject('Alert/Page_DEMOQA/Alerts, Frame Windows'))
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_Checkbox Example - Total-QA/input_chk'))
 
-WebUI.scrollToElement(findTestObject('Alert/Page_DEMOQA/menu_Alerts'), 3)
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_Checkbox Example - Total-QA/input_chk'))
 
-WebUI.verifyElementClickable(findTestObject('Alert/Page_DEMOQA/menu_Alerts'))
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_Checkbox Example - Total-QA/p_SELENIUMQTPLOAD RUNNERJMETER'))
 
-WebUI.mouseOver(findTestObject('Alert/Page_DEMOQA/menu_Alerts'))
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_Checkbox Example - Total-QA/p_SELENIUMQTPLOAD RUNNERJMETER'))
 
-WebUI.click(findTestObject('Alert/Page_DEMOQA/menu_Alerts'))
+WebUI.click(findTestObject('Object Repository/Chekbox/Page_Checkbox Example - Total-QA/p_SELENIUMQTPLOAD RUNNERJMETER'))
 

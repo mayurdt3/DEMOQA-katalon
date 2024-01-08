@@ -4,9 +4,10 @@
    <name>ToolsQa</name>
    <tag></tag>
    <UUID>64a8dfb9-8d29-4bce-b9a1-786452298686</UUID>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>E:\DoNotDelete\Katalon WS\ToolsQa\ToolsQa.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

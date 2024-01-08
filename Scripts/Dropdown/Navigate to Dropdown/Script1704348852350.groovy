@@ -40,3 +40,12 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Dropdown/Page_CURA H
 WebUI.selectOptionByValue(findTestObject('Object Repository/Dropdown/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
     'Tokyo CURA Healthcare Center', false)
 
+if (true) {
+}
+
+for (def index : (0..0)) {
+}
+
+while (true) {
+}
+
